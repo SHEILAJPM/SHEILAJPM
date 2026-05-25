@@ -1,109 +1,161 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=¡Hola!+Soy+Sheila+Principe+🎀;Ing.+de+Sistemas+e+Informática+🌸;Full-stack+Developer+💻;Décimo+Superior+✨" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:FF1493&height=200&section=header&text=Sheila%20Principe&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%2B%20React%20%F0%9F%8C%B8&descAlignY=58&descSize=20&descColor=ffe0ef" width="100%"/>
 </div>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=sheilajpm&label=Vistas&color=FFB6C1&style=for-the-badge&logo=github&labelColor=FF69B4" alt="sheila-views" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=680&lines=%C2%A1Hola!+Soy+Sheila+Principe+%F0%9F%8E%80;Full-Stack+Developer+%F0%9F%92%BB;Java+%2B+Spring+Boot+%7C+React;D%C3%A9cimo+Superior+en+Sistemas;Tecnolog%C3%ADa+con+prop%C3%B3sito+%E2%9C%A8" alt="Typing SVG"/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3:FFB6C1,97:FF69B4&height=100&section=header&text=🎀%20Sobre%20mí%20🌸&fontSize=35&fontColor=ffffff&fontAlign=50&fontAlignY=40"/>
+<br>
 
-<table border="0">
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sheilajpm&label=Visitas&color=FF69B4&style=for-the-badge&labelColor=FF1493"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/sheilajpm?label=Seguidores&style=for-the-badge&color=FFB6C1&labelColor=FF69B4"/>
+</div>
+
+<br>
+
+---
+
+## 🎀 Sobre mí
+
+<table>
   <tr>
-    <td width="60%" valign="center">
+    <td width="55%" valign="top">
       <br>
-      <font size="4">
-        Soy una desarrolladora apasionada por crear soluciones tecnológicas eficientes y escalables. Me especializo en el desarrollo robusto y la arquitectura limpia, siempre buscando el equilibrio entre funcionalidad y un diseño hermoso.
-      </font>
-      <br><br>
+      <p>Desarrolladora apasionada por crear soluciones eficientes y con diseño impecable. Me especializo en arquitectura limpia y el equilibrio entre funcionalidad y estética.</p>
+      <br>
       <ul>
-        <li><font color="#FF69B4">🎀</font> <b>Mis Proyectos:</b> Rutas Prime (Logística) y Gestión Clínica.</li>
-        <li><font color="#FF69B4">🌸</font> Dominando el ecosistema <b>Spring Boot (Java) & React</b>.</li>
-        <li><font color="#FF69B4">🌷</font> <b>Extra:</b> Estudiante en el Británico y Participante en el Parlamento Mujer 2026.</li>
-        <li><font color="#FF69B4">✨</font> <b>Mi filosofía:</b> Tecnología con propósito y diseño impecable.</li>
+        <li>🚀 <b>Rutas Prime</b> (Logística) y <b>Gestión Clínica</b></li>
+        <li>🌸 Stack: <b>Spring Boot + React</b></li>
+        <li>📖 Instituto <b>Británico</b></li>
+        <li>🏛️ <b>Parlamento Mujer 2026</b></li>
+        <li>💡 <i>Tecnología con propósito y diseño impecable</i></li>
       </ul>
+      <br>
+      <img src="https://img.shields.io/badge/Open_to_Collaborate-FF69B4?style=for-the-badge&logo=handshake&logoColor=white"/>
     </td>
-    <td width="40%">
-      <div align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N2cXBteXdrM3V3cTV3NWRmNWRmNWRmNWRmNWRmNWRmNWRmNWRmJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/A6aHBCFqlE0Rq/giphy.gif" width="280" alt="Cute Coding Gif">
-      </div>
+    <td width="45%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="270"/>
     </td>
   </tr>
 </table>
 
-<br>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3:FFB6C1,97:FF69B4&height=100&section=header&text=🌺%20Tech%20Arsenal%20🎀&fontSize=35&fontColor=ffffff&fontAlign=50&fontAlignY=40"/>
+## 🌺 Tech Stack
+
+<div align="center">
+
+**Lenguajes**
+
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css&perline=5"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite,figma&perline=5"/>
+
+**Backend & Bases de datos**
+
+<img src="https://skillicons.dev/icons?i=spring,hibernate,postgres,mysql,maven&perline=5"/>
+
+**Herramientas**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&perline=5"/>
+
+**Aprendiendo**
+
+<img src="https://skillicons.dev/icons?i=docker,aws,redis,kubernetes,linux&perline=5"/>
+
+</div>
+
+---
+
+## 🌸 Proyectos Destacados
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="180"/>
+      <h3>🚚 Rutas Prime</h3>
+      <p>Sistema de gestión logística con seguimiento de rutas, pedidos y conductores en tiempo real</p>
+      <br>
+      <img src="https://img.shields.io/badge/Java-FF69B4?style=flat-square&logo=coffeescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-FFB6C1?style=flat-square&logo=spring&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-FF69B4?style=flat-square&logo=react&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-FFB6C1?style=flat-square&logo=postgresql&logoColor=white"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="180"/>
+      <h3>🏥 Gestión Clínica</h3>
+      <p>Plataforma de administración clínica: pacientes, citas médicas, historiales y reportes</p>
+      <br>
+      <img src="https://img.shields.io/badge/Java-FF69B4?style=flat-square&logo=coffeescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-FFB6C1?style=flat-square&logo=spring&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-FF69B4?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bootstrap-FFB6C1?style=flat-square&logo=bootstrap&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sheilajpm&theme=rose_pine" height="165"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sheilajpm&theme=rose_pine" height="165"/>
+</div>
 
 <br>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%"><b><font color="#FF1493">🎀 Categoría</font></b></td>
-      <td align="center" width="75%"><b><font color="#FF1493">🌸 Tecnologías</font></b></td>
-    </tr>
-    <tr>
-      <td align="center"><b><font color="#FF69B4">Lenguajes</font></b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Java"/>
-        <img src="https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-        <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-        <img src="https://img.shields.io/badge/CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><b><font color="#FF69B4">Frontend</font></b></td>
-      <td>
-        <img src="https://img.shields.io/badge/React-FF69B4?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-FFB6C1?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-        <img src="https://img.shields.io/badge/Bootstrap-FF69B4?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><b><font color="#FF69B4">Backend & DB</font></b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Spring_Boot-FFB6C1?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-FF69B4?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-        <img src="https://img.shields.io/badge/MySQL-FFB6C1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-        <img src="https://img.shields.io/badge/SQL_Server-FF69B4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><b><font color="#FF69B4">Herramientas</font></b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-        <img src="https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-        <img src="https://img.shields.io/badge/Maven-FF69B4?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://streak-stats.demolab.com?user=sheilajpm&hide_border=true&background=FFF0F5&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=888&stroke=FFB6C1&currStreakNum=FF1493&sideNums=FF1493" height="175"/>
 </div>
 
-<br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3:FFB6C1,97:FF69B4&height=100&section=header&text=🌸%20GitHub%20Stats%20🎀&fontSize=35&fontColor=ffffff&fontAlign=50&fontAlignY=40"/>
+---
+
+## 📈 Actividad
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheilajpm&bg_color=fff0f5&color=FF1493&line=FF69B4&point=FF1493&area=true&area_color=FFB6C1&hide_border=true&custom_title=Actividad%20de%20Sheila" width="95%"/>
+</div>
+
+---
+
+## 🏆 Trofeos
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sheilajpm&theme=algolia&no-frame=true&margin-w=8&column=6" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="680"/>
+</div>
+
+---
+
+## 📫 Hablemos
 
 <div align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=sheilajpm&show_icons=true&bg_color=FFF0F5&title_color=FF1493&text_color=444444&icon_color=FF69B4&hide_border=true" height="165" alt="stats graph" style="margin-right: 10px; border-radius: 15px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheilajpm&layout=compact&bg_color=FFF0F5&title_color=FF1493&text_color=444444&hide_border=true" height="165" alt="languages graph" style="border-radius: 15px;"/>
+  <a href="https://www.linkedin.com/in/sheila-jacqueline-principe-merino-1579802aa/">
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF1493" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:principemerinosheila@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF69B4" height="40"/>
+  </a>
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Gracias+por+visitar+mi+perfil!+%F0%9F%8C%B8;Thanks+for+visiting!+%F0%9F%8E%80;Let%27s+build+something+amazing+%F0%9F%92%BB" alt="footer typing"/>
 </div>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="filter: hue-rotate(280deg) brightness(1.2);">
-
-<div align="center">
-  <h3><font color="#FF1493">📫 Conecta conmigo</font></h3>
-  
-  <a href="https://www.linkedin.com/in/sheila-jacqueline-principe-merino-1579802aa/" target="_blank" style="margin: 0 15px; text-decoration: none;">
-    <img src="https://img.icons8.com/fluency/96/linkedin.png" alt="LinkedIn" width="60" style="background-color: #fff0f5; padding: 10px; border-radius: 20px; border: 2px solid #FF69B4;"/>
-  </a>
-  
-  <a href="mailto:principemerinosheila@gmail.com" style="margin: 0 15px; text-decoration: none;">
-    <img src="https://img.icons8.com/fluency/96/gmail-new.png" alt="Gmail" width="60" style="background-color: #fff0f5; padding: 10px; border-radius: 20px; border: 2px solid #FF69B4;"/>
-  </a>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FFB6C1&height=120&section=footer" width="100%"/>
